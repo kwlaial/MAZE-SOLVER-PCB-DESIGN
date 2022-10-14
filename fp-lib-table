@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "L2")(type "KiCad")(uri "C:/Users/85261/OneDrive - HKUST Connect/others/documents/L2.pretty")(options "")(descr ""))
+  (lib (name "new lib")(type "KiCad")(uri "C:/Users/85261/OneDrive - HKUST Connect/others/documents/new lib.pretty")(options "")(descr ""))
+)
